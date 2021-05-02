@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @DavidLogic
-- 👀 I’m interested in ...Progamming
-- 🌱 I’m currently learning ...XAML&C#
+- 👀 I’m interested in :Progamming
+- 🌱 I’m currently learning :XAML&C#
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...2592929967@qq.com
--Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut luctus, mi nec fermentum congue, turpis nibh porttitor ex, sed commodo neque eros non libero. Donec mauris felis, malesuada nec consectetur et, pharetra in ante. Praesent nec hendrerit purus. Ut vel nunc id nisl volutpat porta. Cras in convallis ipsum. Integer id sollicitudin ex. Ut sed iaculis nisl. 
+- 📫 How to reach me :2592929967@qq.com
+-     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut luctus, mi nec fermentum congue, turpis nibh porttitor ex, sed commodo neque eros non libero. Donec mauris felis, malesuada nec consectetur et, pharetra in ante. Praesent nec hendrerit purus. Ut vel nunc id nisl volutpat porta. Cras in convallis ipsum. Integer id sollicitudin ex. Ut sed iaculis nisl. 
 
 Vestibulum sit amet neque nec eros interdum laoreet nec vitae justo. Maecenas scelerisque finibus nisl, a iaculis mauris fermentum sed. Pellentesque faucibus, turpis quis ultrices facilisis, metus eros vulputate augue, sit amet sodales nisl lacus ut massa. Pellentesque vitae dolor nulla. Nullam ultricies imperdiet nisl, interdum placerat dolor posuere a. Nunc tempor sed sapien nec dictum. Morbi eleifend tellus vitae nunc tincidunt viverra. Duis vitae justo eget purus bibendum dictum quis feugiat turpis. Curabitur ultrices purus ut ipsum ullamcorper, sit amet faucibus nisl commodo. Nulla aliquet ante eu leo tincidunt, a tempor nibh maximus.
 
