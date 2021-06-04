@@ -1,18 +1,24 @@
-- 👋 Hi, I’m @DavidLogic
-- 👀 I’m interested in :Progamming
-- 🌱 I’m currently learning :XAML&C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me :2592929967@qq.com
--     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut luctus, mi nec fermentum congue, turpis nibh porttitor ex, sed commodo neque eros non libero. Donec mauris felis, malesuada nec consectetur et, pharetra in ante. Praesent nec hendrerit purus. Ut vel nunc id nisl volutpat porta. Cras in convallis ipsum. Integer id sollicitudin ex. Ut sed iaculis nisl. 
+<h1 align="center">Hi 👋, I'm David Logic</h1>
+<h3 align="center">A beginning developer from China</h3>
 
-Vestibulum sit amet neque nec eros interdum laoreet nec vitae justo. Maecenas scelerisque finibus nisl, a iaculis mauris fermentum sed. Pellentesque faucibus, turpis quis ultrices facilisis, metus eros vulputate augue, sit amet sodales nisl lacus ut massa. Pellentesque vitae dolor nulla. Nullam ultricies imperdiet nisl, interdum placerat dolor posuere a. Nunc tempor sed sapien nec dictum. Morbi eleifend tellus vitae nunc tincidunt viverra. Duis vitae justo eget purus bibendum dictum quis feugiat turpis. Curabitur ultrices purus ut ipsum ullamcorper, sit amet faucibus nisl commodo. Nulla aliquet ante eu leo tincidunt, a tempor nibh maximus.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=davidlogic&label=Profile%20views&color=0e75b6&style=flat" alt="davidlogic" /> </p>
 
-Vestibulum varius bibendum metus. Aliquam erat volutpat. Vestibulum dignissim quam at ligula cursus iaculis. Nam posuere enim ut pellentesque congue. Aliquam malesuada nulla lacus, auctor interdum magna gravida molestie. Sed mollis non velit a maximus. Phasellus scelerisque, nibh at maximus ultrices, ex eros condimentum leo, vel aliquam dolor nisl in mauris. 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidlogic" alt="davidlogic" /></a> </p>
 
-Praesent volutpat odio sed ante posuere lacinia. Suspendisse eget ullamcorper dui. Curabitur interdum velit congue erat elementum eleifend. Donec tincidunt arcu vitae est condimentum lacinia. Nullam at sem eu purus congue porta eget vel lorem. Aenean gravida diam tincidunt consequat tincidunt. Sed vel vestibulum eros, quis lacinia tortor. Suspendisse luctus, arcu quis venenatis dapibus, dolor neque suscipit ipsum, id cursus nibh nisi eu diam. Suspendisse vestibulum ut orci ut malesuada. Aliquam gravida leo et massa commodo, lobortis ultrices mauris pulvinar. Cras vulputate, tellus quis consectetur fringilla, enim leo pharetra est, et varius nibh eros in sapien. Nunc tortor tortor, mattis at ullamcorper et, tincidunt ac ante. Nam sed orci felis. Duis non turpis eu mauris blandit mollis. Ut vestibulum libero sed ex viverra, quis faucibus mauris tristique.
- 
-Nunc a vehicula velit. Vivamus rutrum elementum massa in consectetur. Nunc placerat leo sit amet est accumsan, et rhoncus leo tincidunt. Ut suscipit orci sed ultrices commodo. Vestibulum sed purus semper, ullamcorper metus in, ultrices nulla. Aliquam erat volutpat. Mauris non tellus pretium, accumsan velit eu, suscipit ipsum. Integer risus dui, feugiat id rutrum ut, aliquet et arcu. Duis ac lacus ac magna pretium semper ut ut metus. Phasellus nec elit quis erat condimentum tincidunt. Vestibulum porttitor tincidunt dui, eu ornare massa fringilla sit amet. Cras et maximus justo. Aenean non enim vel massa pulvinar congue. Phasellus quis nisi vel mauris gravida tempor. Mauris sed fringilla lacus, interdum fermentum massa. Quisque pretium sollicitudin sapien vitae cursus.
-<!---
-DavidLogic/DavidLogic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m currently working on [MagicList](Github.com/davidlogic/magiclist)
+
+- 🌱 I’m currently learning **C#**
+
+- 👨‍💻 All of my projects are available at [Github.com/davidlogic](Github.com/davidlogic)
+
+- 📫 How to reach me **2592929967@qq.com**
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidlogic&show_icons=true&locale=en&layout=compact" alt="davidlogic" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidlogic&show_icons=true&theme=synthwave&locale=en" alt="davidlogic" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davidlogic&" alt="davidlogic" /></p>
