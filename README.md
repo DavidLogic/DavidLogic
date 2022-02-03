@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋， I'm DavidLogic</h1>
-<h3 align="center">来自中国的充满激情的学生</h3>
+<h3 align="center">A passionate student likes technology.</h3>
 <
 p align="left"> <img src="https://komarev.com/ghpvc/?username=davidlogic&label=Profile%20views&color=0e75b6&style=flat" alt="davidlogic" /> </p>
 
