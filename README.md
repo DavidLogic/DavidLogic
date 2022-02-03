@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [Github.com/davidlogic](Github.com/davidlogic)
 
-- 📫 How to reach me **2592929967@qq.com**
+- 📫 How to reach me **davidlogic@foxmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
