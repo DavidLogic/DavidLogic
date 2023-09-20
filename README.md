@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **BonjourDailyTips**
 
-- 🌱 I’m currently learning **C# ,WPF ,UI ,UWP**
+- 🌱 I’m currently learning **C# ,WinUI3，.NET**
 
 - 📫 How to reach me **logicliu@petalmail.com**
 
